@@ -1,4 +1,3 @@
-function Get-Admins 
-(
+function Get-Admins {
 Get-LocalGroupMembers Administrators
-)
+}
